@@ -1,1 +1,1 @@
-# This is the database for OSF preprints common problems
+This is the database for COS common code problems
